@@ -1,0 +1,83 @@
+.mainPage{
+    background-color: #F4F9E2;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.mainPage nav{
+    display: flex;
+    justify-content: space-between;
+}
+.mainPage nav ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+.mainPage nav ul li{
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 17px;
+}
+
+.mainPage nav ul li:hover{
+    border-bottom:1px solid black ;
+}
+
+.MainBlock{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.logo{
+    color: #62D0DF;
+    font-size: 24px;
+    margin-top: 27px;
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    background-color: #62D0DF;
+    border-radius: 25px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 27px;
+    border: 0;
+}
+
+.textBlock{
+    margin-top: 100px;
+    width: 40%;
+}
+
+.textBlock h1{
+    font-size: 48px;
+    color: #22356F;
+}
+
+.textL{
+    font-size: 24px;
+    color: #22356F;
+    margin: 19px 0 60px;
+}
+
+.btnY{
+    background-color: #F9B640;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    border: 0;
+    margin-right: 38px;
+}
+
+.btnD{
+    background-color: #F4F9E2;
+    font-size: 16px;
+    color: #F9B640;
+    width: 150px;
+    height: 50px;
+    border: 0;
+}

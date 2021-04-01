@@ -1,0 +1,103 @@
+.Blocks{
+    font-size: 14px;
+    color: #FFFF;
+    background-color: #E5E5E5;
+}
+
+.Boxs{
+    display: flex;
+    font-size: 32px;
+    height: 340px;
+}
+.box1{
+    width: 25%;
+    background-color: #FFE2DE;
+    padding:60px 40px 0;
+}
+.Boxs ul {
+    border-top: 1px solid white;
+    padding-top: 10px;
+}
+
+.Boxs ul li{
+    color: #E9B730;
+}
+
+.Boxs span{
+    color: #FFFF;
+}
+.box2{
+    width: 25%;
+    background-color: #C4E769;
+    padding:60px 40px 0;
+}
+
+.box3{
+    width: 25%;
+    background-color: #62D0DF;
+    padding:60px 40px 0;
+}
+
+.box4{
+    width: 25%;
+    background-color: #0052C1;
+    padding: 60px 40px 0;
+}
+
+.mainBlocks{
+    display: flex;
+    height: 780px;
+    padding-top: 100px;
+    font-size: 32px;
+    flex-wrap: wrap;
+}
+
+.mainBlocks ul{
+    border-top: 1px solid white;
+    padding-top: 30px ;
+    margin: 0 30px;
+}
+.mainBlocks ul li{
+    color: #E9B730;
+}
+
+.mainBlocks span{
+    color: #FFFF;
+}
+
+.block1{
+    width: 33.3%;
+    background-color: #22356F;
+    padding: 100px 0 0;
+    
+}
+.block2{
+    width: 33.3%;
+    background-color: #0052C1;
+    padding: 100px 0 0;
+}
+.block3{
+    width: 33.3%;
+    background-image: url(../../images/redberry.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px 0 0;
+}
+
+.block4{
+    width: 33.3%;
+    background-color: #62D0DF;
+    padding: 100px 0 0;
+}
+
+.block5{
+    width: 33.3%;
+    background-color: #DEE1FF;
+    padding: 100px 0 0;
+}
+
+.block6{
+    width: 33.3%;
+    background-color: #8F00FF;
+    padding: 100px 0 0;
+}
